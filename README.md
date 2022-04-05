@@ -1,4 +1,4 @@
-### Bem-vindx ao meu perfil! 👋
+### Bem-vinde ao meu perfil! 👋
 
 <div>
   <a href="https://github.com/Isabelandreoli">
